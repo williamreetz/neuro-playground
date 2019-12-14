@@ -1,0 +1,16 @@
+{
+  "name": "neuro-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.3.1",
+    "p5": "^0.10.2"
+  }
+}

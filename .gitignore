@@ -1,0 +1,8 @@
+# directories
+/node_modules
+/typings
+/.vscode
+# files
+npm-debug.log
+.DS_Store
+Thumbs.db
